@@ -1,0 +1,27 @@
+_repo: Sir-John-French--An-Authentic-Biography_17778
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Chisholm, Cecil
+    gutenberg_agent_id: '7594'
+    url: http://www.gutenberg.org/2009/agents/7594
+description: ''
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2006-02-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17778'
+  lccn: '15002890'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'French, John Denton Pinkstone, Earl of Ypres, 1852-1925'
+- !lcsh 'Marshals -- Great Britain -- Biography'
+title: 'Sir John French: An Authentic Biography'
+url: http://www.gutenberg.org/ebooks/17778
